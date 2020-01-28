@@ -6,6 +6,6 @@ Steps to reproduce:
 1.https://notatnikpannymlodej.pl/category/planowanie/  
 
 Actual result:  
-Bad article positioning inside the container.  
+Bad article position inside the container.  
 
 Screenshots: https://1drv.ms/u/s!AodpVRGnPfx-kDN0_aReb16rqVG7  
