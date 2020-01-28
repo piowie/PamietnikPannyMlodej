@@ -1,6 +1,7 @@
 Credentials:  
 
-Server: notatnikpannymlodej.pl/   
+Server: notatnikpannymlodej.pl/  
+
 Browser:  Opera 66.0.3515.44  
 
 Steps to reproduce:
