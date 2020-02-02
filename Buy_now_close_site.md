@@ -5,15 +5,14 @@ Server: notatnikpannymlodej.pl
 Browser: Opera 66.0.3515.44
 
 Steps to reproduce:   
-1. notatnikpannymlodej.pl
+1. Go to notatnikpannymlodej.pl
 2. Use "Kup Teraz" button  
 
 Actual result:  
-After pressing "Kup teraz" button the main page "notatnikpannymlodej.pl" is closed, and the other site is opened. In this case it's "https://allegro.pl/oferta/notatnik-panny-mlodej-organizer-slubny-8078031557"  
+After pressing "Kup teraz" button allegro page is openning on current tab.
 
 Expected result:  
-
-Pressing "Kup teraz" button does not close the main site. Instead the new site is opened in the new tab.  
+Pressing "Kup teraz" button shouldn't open allegro page on the same tab. It should open on the other tab.
 
 Screenshots:  
 https://1drv.ms/u/s!AodpVRGnPfx-kDlr0-pRVQDeZ7N7
