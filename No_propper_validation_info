@@ -15,8 +15,7 @@ After clicking the "Wyślij wiadomość" button user sees information in red rec
 Spróbuj ponownie lub poszukaj innej drogi kontaktu."
 
 Expected result:
-
-There should be correct form validation.   
+There should be correct form validation with information which fields are wrongly filled by a user.   
 
 Screenshots:  
 https://1drv.ms/u/s!AodpVRGnPfx-kDy3K5Rk8mtZj_QU
