@@ -1,4 +1,4 @@
-Credentials:
+Credentials:  
 Server: https://notatnikpannymlodej.pl  
 Browser: Opera 66.0.3515.44
 
