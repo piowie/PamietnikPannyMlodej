@@ -2,10 +2,10 @@ Credentials:
 
 Server: http://notatnikpannymlodej.pl/  
 
-Browser: Opera http://notatnikpannymlodej.pl/  
+Browser: Opera 
 
 Steps to reproduce:  
-1. http://notatnikpannymlodej.pl/
+1. Go to http://notatnikpannymlodej.pl/
 2. Click "Galeria", "Video", "Baza wiedzy", "Zobacz" from the top menu. 
 
 Actual result:  
