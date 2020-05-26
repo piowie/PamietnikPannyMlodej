@@ -14,8 +14,8 @@ Clicking "back to the top" button causes constant scrolling the page to it's top
 Expected result:  
 Clicking "back to the top" button make scrolling the page to it's top once
 
-Movies:  
-https://1drv.ms/v/s!AodpVRGnPfx-kDrLiCcn4b6zAJyJ
-
+Movies: 
+<video width="640" height="480" controls>
+<source src="Back_to_the_top_site.mp4" type="video/mp4">
 Screenshots:  
 <img src="img/Back_to_the_top_site.png">
