@@ -15,4 +15,4 @@ Expected result:
 User should be rediretced to corresponding subpage after clicking in proper link from top menu.  
 
 Screenshots:  
-https://1drv.ms/u/s!AodpVRGnPfx-kDd6iLtgcD1YOk5m
+<img src"=img/Inactive_links.png">
