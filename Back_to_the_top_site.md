@@ -15,8 +15,7 @@ Expected result:
 Clicking "back to the top" button make scrolling the page to it's top once
 
 Movies: 
-<video src="video/Back_to_the_top_site.mp4" width="320" height="200" controls preload></video>
-
+<video src="video/Back_to_the_top_site.mp4">
 
 Screenshots:  
 <img src="img/Back_to_the_top_site.png">
