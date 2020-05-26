@@ -14,4 +14,4 @@ Expected result:
 There should be proper graphic at the proper place.
 
 Screenshots:
-<img src="/imgLack_of_graphics.png">
+<img src="img/Lack_of_graphics.png">
