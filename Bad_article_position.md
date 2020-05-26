@@ -8,4 +8,5 @@ Steps to reproduce:
 Actual result:    
 Bad article position inside the container.  
 
-Screenshots:   https://1drv.ms/u/s!AodpVRGnPfx-kDN0_aReb16rqVG7  
+Screenshots: 
+<img src="img/Bad_article_position.png">
