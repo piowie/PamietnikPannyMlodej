@@ -15,4 +15,4 @@ Expected result:
 User should be rediretced to corresponding subpage after clicking in proper link from top menu.  
 
 Screenshots:  
-<img src"=img/Inactive_links.png">
+<img src="img/Inactive_links.png">
