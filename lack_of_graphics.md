@@ -13,4 +13,5 @@ There are missing graphics under some entries
 Expected result:  
 There should be proper graphic at the proper place.
 
-Screenshots: https://1drv.ms/u/s!AodpVRGnPfx-kDELouOIJIYSZFzu
+Screenshots:
+<img src="/imgLack_of_graphics.png">
