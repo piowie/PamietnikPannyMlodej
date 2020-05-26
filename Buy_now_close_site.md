@@ -16,4 +16,4 @@ Pressing "Kup teraz" button shouldn't open allegro page on the same tab. It shou
 
 Screenshots:  
 
-https://1drv.ms/u/s!AodpVRGnPfx-kDlr0-pRVQDeZ7N7
+<img src="img/Buy_now_close_site.png">
