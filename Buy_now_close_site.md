@@ -15,5 +15,5 @@ Expected result:
 Pressing "Kup teraz" button shouldn't open allegro page on the same tab. It should open on the other tab.
 
 Screenshots:  
-<img src="Google_Maps_PC.png"></img>
+
 https://1drv.ms/u/s!AodpVRGnPfx-kDlr0-pRVQDeZ7N7
