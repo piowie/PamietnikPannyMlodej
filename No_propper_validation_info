@@ -18,4 +18,4 @@ Expected result:
 There should be correct form validation with information which fields are wrongly filled by a user.   
 
 Screenshots:  
-https://1drv.ms/u/s!AodpVRGnPfx-kDy3K5Rk8mtZj_QU
+<img src="img/No_propper_validation.png">
