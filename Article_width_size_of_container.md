@@ -11,4 +11,4 @@ Actual result:
 The width of child container is not propper for the parent container width.
 
 Screenshots:  
-<img src="Article_width_size_of_container.png">
+<img src="img/Article_width_size_of_container.png">
