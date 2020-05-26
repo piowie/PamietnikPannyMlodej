@@ -13,4 +13,5 @@ There is a lack of language consistency in some entries.
 Expected result:    
 All entries should be in the same language.  
 
-Screenshots: https://1drv.ms/u/s!AodpVRGnPfx-kDJnSWL859lqyHVG 
+Screenshots: 
+<img src="img/Language_consistency.png">
